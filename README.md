@@ -1,111 +1,41 @@
-🎉 **Happy Birthday Bella!** 🎂
+Có thể gửi kiểu vừa điên vừa như “thông cáo báo chí” thế này:
 
-## 📝 Về Trang Web Này
+📡 BẢN TIN ĐẶC BIỆT TOÀN CẦU – 03/06
 
-Đây là một trang web sinh nhật đặc biệt được tạo cho **Nguyễn Phạm Cát Linh (Bella)** nhân dịp sinh nhật lần thứ 19 (03/06/2005 → 03/06/2024).
+Theo ghi nhận từ nhiều năm trước, vào ngày 03/06/2005, vũ trụ đã chính thức cho ra mắt một cá thể mang tên Nguyễn Phạm Cát Linh aka Bella. Sự kiện này ban đầu chưa được đánh giá hết mức độ ảnh hưởng, tuy nhiên sau nhiều năm, các chuyên gia xác nhận đây là một trong những “dự án” hoạt động ổn định và nguy hiểm nhất đối với cảm xúc con người.
 
-## ✨ Tính Năng
+Nhân vật trên hiện sở hữu:
 
-- 🎨 **Giao diện sinh nhật tuyệt đẹp** với animations sinh động
-- 💌 **Hộp thư tương tác** - Bấm nút để mở lá thư chúc mừng
-- 🎈 **Trang trí chuyên nghiệp** - Bóng bay, hoa, sao, và nhiều hơn nữa
-- 📱 **Responsive Design** - Hoạt động tốt trên desktop, tablet, và mobile
-- 🎭 **Lời chúc đặc biệt** - "Bản tin đặc biệt toàn cầu" về Bella
+Visual vượt mức an toàn,
 
-## 🚀 Cách Sử Dụng
+Độ cuốn khó giải thích bằng khoa học,
 
-1. **Clone Repository:**
-   ```bash
-   git clone https://github.com/huynhbaduy250406-ux/catslinh.git
-   cd catslinh
-   ```
+Khả năng khiến người khác vui vẻ chỉ bằng vài câu nói,
+và đặc biệt là năng lực làm người khác suy nghĩ nhiều dù bản thân có thể hoàn toàn vô tội.
 
-2. **Mở file `index.html` trong trình duyệt**
-   - Hoặc upload lên hosting (GitHub Pages, Netlify, Vercel, etc.)
+Trong suốt thời gian hoạt động trên Trái Đất, Bella được ghi nhận đã:
 
-3. **Tương tác:**
-   - Xem các animation tự chạy
-   - Bấm nút "💌 Mở Thư" để xem lời chúc đặc biệt
-   - Đóng thư bằng cách bấm dấu X hoặc click ngoài
+Khiến timeline người khác thú vị hơn,
 
-## 📂 Cấu Trúc File
+Tạo ra không ít pha rung động bất ngờ,
 
-```
-catslinh/
-├── index.html          # File HTML chính
-├── styles.css          # File CSS cho styling
-├── script.js           # File JavaScript cho interactions
-├── bella.jpg           # Ảnh của Bella
-└── README.md           # File này
-```
+Và góp phần làm nhiều người mất tập trung trong học tập, công việc lẫn cuộc sống thường ngày.
 
-## 🎨 Công Nghệ Sử Dụng
+Các nhà nghiên cứu hiện vẫn chưa thể xác định chính xác lý do vì sao một người có thể vừa dễ thương, vừa khó đoán, vừa khiến người khác muốn quan tâm nhiều đến vậy. Tuy nhiên theo thống kê sơ bộ, mức độ ảnh hưởng của nhân vật này vẫn tiếp tục tăng trưởng ổn định qua từng năm và chưa có dấu hiệu dừng lại.
 
-- **HTML5** - Cấu trúc trang web
-- **CSS3** - Styling và animations
-- **JavaScript** - Xử lý tương tác
-- **Font Awesome** - Icons
-- **Google Fonts** - Custom fonts
+Nhân dịp bước sang phiên bản mới, xin gửi lời chúc đến Nguyễn Phạm Cát Linh (Bella):
+Mong bạn luôn vui vẻ,
+Ngủ ngon,
+Gặp thật nhiều điều tốt đẹp,
+Luôn được yêu thương theo cách bạn xứng đáng,
+và dù sau này có đi đến đâu thì vẫn luôn giữ được năng lượng rất riêng khiến người khác nhớ mãi.
 
-## 💝 Lời Chúc Đặc Biệt
+Đồng thời cũng mong phiên bản mới sẽ:
+Ít áp lực hơn,
+Nhiều niềm vui hơn,
+Tiền vào nhiều hơn,
+Và bớt làm người khác hoang mang mỗi khi cười một cái.
 
-Trang web này chứa một "bản tin đặc biệt toàn cầu" về Bella, được viết theo phong cách vừa hài hước vừa lãng mạn, nói về:
+Cảm ơn vì đã xuất hiện trên đời này đúng ngày 03/06/2005 để khiến thế giới thú vị hơn một chút.
 
-✨ Visual vượt mức an toàn  
-✨ Độ cuốn khó giải thích bằng khoa học  
-✨ Khả năng khiến người khác vui vẻ  
-✨ Năng lực làm người khác suy nghĩ nhiều  
-
-Và kết thúc với những lời chúc tốt đẹp cho Bella trên hành trình tuổi mới!
-
-## 📸 Ảnh Đại Diện
-
-Trang web sử dụng ảnh của Bella từ file `bella.jpg`. Bạn có thể thay đổi bằng cách:
-1. Upload ảnh mới lên repo
-2. Cập nhật đường dẫn trong `index.html`
-
-## 🔧 Tùy Chỉnh
-
-### Thay đổi tên:
-Mở `index.html` và tìm:
-```html
-<span>Nguyễn Phạm Cát Linh</span>
-```
-
-### Thay đổi ngày sinh:
-Tìm và sửa:
-```html
-<span>03/06/2005</span>
-```
-
-### Thay đổi lời chúc:
-Tìm phần `.text__letter` trong `index.html` và sửa nội dung
-
-## 🌐 Deploy
-
-### Cách 1: GitHub Pages
-1. Push code lên GitHub
-2. Vào Settings → Pages
-3. Chọn Branch: `main`
-4. Trang sẽ có sẵn tại: `https://huynhbaduy250406-ux.github.io/catslinh`
-
-### Cách 2: Netlify
-1. Kết nối GitHub repo
-2. Deploy tự động
-3. Nhận URL công khai
-
-## 💡 Tips
-
-- Trang web hoạt động tốt nhất trên Chrome, Firefox, Safari
-- Âm thanh có thể được thêm vào bằng HTML5 Audio
-- Bạn có thể thêm ảnh GIF thay vì ảnh tĩnh
-
-## 📝 Ghi Chú
-
-Trang web này được tạo với tình yêu thương và sáng tạo. Tất cả animation và tương tác được thiết kế để mang lại niềm vui cho Bella vào ngày sinh nhật đặc biệt của cô ấy.
-
----
-
-**🎂 Happy Birthday to the most special person - Bella! 🎂**
-
-*Mong bạn luôn vui vẻ, ngủ ngon, gặp thật nhiều điều tốt đẹp, luôn được yêu thương, và giữ được năng lượng rất riêng khiến người khác nhớ mãi!* ✨
+Happy Birthday Bella 🎂
